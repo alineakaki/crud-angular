@@ -1,0 +1,29 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "The Sims 4",
+      "price": 49.9
+    },
+    {
+      "id": 3,
+      "name": "VR Chat",
+      "price": 16.99
+    },
+    {
+      "id": 4,
+      "name": "Jogo Uno",
+      "price": "3.99"
+    },
+    {
+      "name": "LOL",
+      "price": "9.99",
+      "id": 6
+    },
+    {
+      "name": "The Sims 3",
+      "price": "49.1",
+      "id": 8
+    }
+  ]
+}
